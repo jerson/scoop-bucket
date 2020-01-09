@@ -1,0 +1,22 @@
+{
+    "version": "3.1.2",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/jerson/pgrok/releases/download/v3.1.2/pgrokd_3.1.2_Windows_i386.zip",
+            "bin": [
+                "pgrokd.exe"
+            ],
+            "hash": "dd0ca57a00f6f440b6f9753a75f9bf5d62f69d2b2d3045cb96d18795f577b541"
+        },
+        "64bit": {
+            "url": "https://github.com/jerson/pgrok/releases/download/v3.1.2/pgrok_3.1.2_Windows_x86_64.zip",
+            "bin": [
+                "pgrok.exe"
+            ],
+            "hash": "1aa1dac1469a0eaf6c1f4d248ce622a7a111100ba984405b7bff23eb249ac820"
+        }
+    },
+    "homepage": "https://github.com/jerson/pgrok",
+    "license": "MIT",
+    "description": "Introspected tunnels to localhost a fork from pgrok."
+}
