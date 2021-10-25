@@ -1,19 +1,19 @@
 {
-    "version": "3.2.6",
+    "version": "3.2.7",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/jerson/pgrok/releases/download/v3.2.6/pgrok_3.2.6_Windows_i386.zip",
+            "url": "https://github.com/jerson/pgrok/releases/download/v3.2.7/pgrokd_3.2.7_Windows_i386.zip",
             "bin": [
-                "pgrok.exe"
+                "pgrokd.exe"
             ],
-            "hash": "6dcd23f794e0ffe7eb8ec24492e7fea7a31fefae83cedf1fa30b6e810cc4b9ee"
+            "hash": "cd809add73830a89133a5115b8ae1c703a59ec4e5cb5bf94a91ecafab1e242af"
         },
         "64bit": {
-            "url": "https://github.com/jerson/pgrok/releases/download/v3.2.6/pgrok_3.2.6_Windows_x86_64.zip",
+            "url": "https://github.com/jerson/pgrok/releases/download/v3.2.7/pgrokd_3.2.7_Windows_x86_64.zip",
             "bin": [
-                "pgrok.exe"
+                "pgrokd.exe"
             ],
-            "hash": "5c2bcfcefd3513969c1ba0d1fa651057dede9f93c210571d462da2ae14cbb97a"
+            "hash": "1d97c1643a870da370b45cb1ec353bbab56430c7f5399209ec734d1199d48a88"
         }
     },
     "homepage": "https://github.com/jerson/pgrok",
